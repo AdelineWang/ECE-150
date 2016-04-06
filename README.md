@@ -1,3 +1,3 @@
 # ECE-150
-my solutions to ECE 150 Introduction to Programming at the University of Waterloo
-solutions are in C++
+My solutions to ECE 150 Introduction to Programming at the University of Waterloo, Department of Electrical and Computer Engineering.
+Solutions are in C++.
